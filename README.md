@@ -51,7 +51,7 @@ sudo su
 # digite a senha: kali
 setoolkit
 ```
-
+![Print da tela com comando](https://github.com/lorac-2/mecanismo-de-ataque-desafio-phishing-dio/blob/main/imagens/1.png)
 
 ---
 
@@ -62,7 +62,7 @@ setoolkit
 ```
 1) Social-Engineering Attacks
 ```
-
+![Print da tela com comando](https://github.com/lorac-2/mecanismo-de-ataque-desafio-phishing-dio/blob/main/imagens/2.png)
 
 ---
 
@@ -74,7 +74,7 @@ setoolkit
 2) Website Attack Vectors
 ```
 
-
+![Print da tela com comando](https://github.com/lorac-2/mecanismo-de-ataque-desafio-phishing-dio/blob/main/imagens/3.png)
 
 ---
 
@@ -85,7 +85,7 @@ setoolkit
 ```
 3) Credential Harvester Attack Method
 ```
-
+![Print da tela com comando](https://github.com/lorac-2/mecanismo-de-ataque-desafio-phishing-dio/blob/main/imagens/4.png)
 
 
 ### 5. Seleção do Tipo de Clonagem
@@ -96,6 +96,7 @@ setoolkit
 2) Site Cloner
 ```
 
+![Print da tela com comando](https://github.com/lorac-2/mecanismo-de-ataque-desafio-phishing-dio/blob/main/imagens/5.png)
 
 ---
 
@@ -104,6 +105,7 @@ setoolkit
 **Comando Implícito:**  
 O SEToolkit geralmente insere automaticamente o IP local.
 
+![Print da tela com comando](https://github.com/lorac-2/mecanismo-de-ataque-desafio-phishing-dio/blob/main/imagens/6.png)
 
 ---
 
@@ -115,6 +117,7 @@ O SEToolkit geralmente insere automaticamente o IP local.
 https://www.facebook.com
 ```
 
+![Print da tela com comando](https://github.com/lorac-2/mecanismo-de-ataque-desafio-phishing-dio/blob/main/imagens/7.png)
 
 ---
 
@@ -123,6 +126,7 @@ https://www.facebook.com
 **Comando Implícito:**  
 Confirmação de que a página foi clonada.
 
+![Print da tela com comando](https://github.com/lorac-2/mecanismo-de-ataque-desafio-phishing-dio/blob/main/imagens/8.png)
 
 ---
 
@@ -130,6 +134,7 @@ Confirmação de que a página foi clonada.
 
 **Comando Implícito:**  
 Script de Credential Harvester inicializado.
+![Print da tela com comando](https://github.com/lorac-2/mecanismo-de-ataque-desafio-phishing-dio/blob/main/imagens/9.png)
 
 ---
 
@@ -138,7 +143,7 @@ Script de Credential Harvester inicializado.
 **Comando Implícito:**  
 Servidor rodando e aguardando submissão de credenciais.
 
-
+![Print da tela com comando](https://github.com/lorac-2/mecanismo-de-ataque-desafio-phishing-dio/blob/main/imagens/10.png)
 
 ---
 
@@ -147,6 +152,7 @@ Servidor rodando e aguardando submissão de credenciais.
 **Resultado no Terminal:**  
 Exibição das credenciais capturadas (Login e Senha).
 
+![Print da tela com comando](https://github.com/lorac-2/mecanismo-de-ataque-desafio-phishing-dio/blob/main/imagens/11.png)
 
 ---
 
