@@ -52,7 +52,6 @@ sudo su
 setoolkit
 ```
 
-![Print 1](C:/Users/carol/OneDrive/Documentos/AA-materiais-estudo/TI/DIO/Formação Cybersecurity Specialis DIO/imagens/1.png)
 
 ---
 
@@ -64,7 +63,6 @@ setoolkit
 1) Social-Engineering Attacks
 ```
 
-![Print 2](C:/Users/carol/OneDrive/Documentos/AA-materiais-estudo/TI/DIO/Formação Cybersecurity Specialis DIO/imagens/2.png)
 
 ---
 
@@ -76,7 +74,7 @@ setoolkit
 2) Website Attack Vectors
 ```
 
-![Print 3](C:/Users/carol/OneDrive/Documentos/AA-materiais-estudo/TI/DIO/Formação Cybersecurity Specialis DIO/imagens/3.png)
+
 
 ---
 
@@ -88,9 +86,7 @@ setoolkit
 3) Credential Harvester Attack Method
 ```
 
-![Print 4](C:/Users/carol/OneDrive/Documentos/AA-materiais-estudo/TI/DIO/Formação Cybersecurity Specialis DIO/imagens/4.png)
 
----
 
 ### 5. Seleção do Tipo de Clonagem
 
@@ -100,7 +96,6 @@ setoolkit
 2) Site Cloner
 ```
 
-![Print 5](C:/Users/carol/OneDrive/Documentos/AA-materiais-estudo/TI/DIO/Formação Cybersecurity Specialis DIO/imagens/5.png)
 
 ---
 
@@ -109,7 +104,6 @@ setoolkit
 **Comando Implícito:**  
 O SEToolkit geralmente insere automaticamente o IP local.
 
-![Print 6](C:/Users/carol/OneDrive/Documentos/AA-materiais-estudo/TI/DIO/Formação Cybersecurity Specialis DIO/imagens/6.png)
 
 ---
 
@@ -121,7 +115,6 @@ O SEToolkit geralmente insere automaticamente o IP local.
 https://www.facebook.com
 ```
 
-![Print 7](C:/Users/carol/OneDrive/Documentos/AA-materiais-estudo/TI/DIO/Formação Cybersecurity Specialis DIO/imagens/7.png)
 
 ---
 
@@ -130,7 +123,6 @@ https://www.facebook.com
 **Comando Implícito:**  
 Confirmação de que a página foi clonada.
 
-![Print 8](C:/Users/carol/OneDrive/Documentos/AA-materiais-estudo/TI/DIO/Formação Cybersecurity Specialis DIO/imagens/8.png)
 
 ---
 
@@ -139,8 +131,6 @@ Confirmação de que a página foi clonada.
 **Comando Implícito:**  
 Script de Credential Harvester inicializado.
 
-![Print 9](C:/Users/carol/OneDrive/Documentos/AA-materiais-estudo/TI/DIO/Formação Cybersecurity Specialis DIO/imagens/9.png)
-
 ---
 
 ### 10. Servidor em Espera (Listening)
@@ -148,7 +138,7 @@ Script de Credential Harvester inicializado.
 **Comando Implícito:**  
 Servidor rodando e aguardando submissão de credenciais.
 
-![Print 10](C:/Users/carol/OneDrive/Documentos/AA-materiais-estudo/TI/DIO/Formação Cybersecurity Specialis DIO/imagens/10.png)
+
 
 ---
 
@@ -157,7 +147,6 @@ Servidor rodando e aguardando submissão de credenciais.
 **Resultado no Terminal:**  
 Exibição das credenciais capturadas (Login e Senha).
 
-![Print 11](C:/Users/carol/OneDrive/Documentos/AA-materiais-estudo/TI/DIO/Formação Cybersecurity Specialis DIO/imagens/11.png)
 
 ---
 
